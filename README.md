@@ -178,4 +178,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note:** This is an academic project built during **January 2023 to April 2023** in an internship as part of the **BE Computer Engineering** curriculum at **Bhagwan Arihant Institute of Technology - Surat.**
+**Note:** This is an academic project built during a **January 2023 to April 2023** in an internship at **Advait Solutions** as part of the **BE Computer Engineering** curriculum at **Bhagwan Arihant Institute of Technology - Surat.**
