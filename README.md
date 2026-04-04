@@ -24,7 +24,7 @@ This project is a fully functional NFT marketplace that allows users to:
 - View user profile with owned NFTs
 - Secure wallet connection via MetaMask
 - Decentralized storage using IPFS (Pinata)
-- Local blockchain development with Hardhats
+- Local blockchain development with Hardhat
 
 ## Tech Stack
 
