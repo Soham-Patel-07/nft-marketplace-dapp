@@ -141,19 +141,33 @@ Before you begin, ensure you have:
 
 ```
 nftmarket/
-├── contracts/           # Solidity smart contracts
+├── contracts/              # Solidity smart contracts
 │   └── NFTMarketplace.sol
-├── src/                 # React frontend
-│   ├── components/     # React components
-│   ├── App.js          # Main app component
-│   ├── pinata.js       # IPFS upload functions
-│   └── utils.js        # Utility functions
-├── scripts/            # Deployment scripts
-│   └── deploy.js       # Contract deployment
-├── hardhat.config.js   # Hardhat configuration
-├── package.json        # Dependencies
-├── docs/               # Documentation
-└── README.md          # Main documentation
+├── src/                    # React frontend
+│   ├── components/         # React components
+│   │   ├── Marketplace.js
+│   │   ├── NFTpage.js
+│   │   ├── NFTTile.js
+│   │   ├── Navbar.js
+│   │   ├── Profile.js
+│   │   └── SellNFT.js
+│   ├── App.js              # Main app component
+│   ├── index.js            # Entry point
+│   ├── pinata.js           # IPFS upload functions
+│   ├── utils.js            # Utility functions
+│   └── Marketplace.json    # Marketplace data
+├── scripts/                # Deployment scripts
+│   ├── deploy.js
+│   └── testing.js
+├── test/                   # Test files
+│   └── sample-test.js
+├── public/                 # Static assets
+├── artifacts/              # Compiled contract artifacts
+├── Screenshot/             # Project screenshots
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
 ```
 
 ## Smart Contract Features
