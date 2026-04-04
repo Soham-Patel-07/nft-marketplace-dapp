@@ -164,6 +164,7 @@ nftmarket/
 ├── public/                 # Static assets
 ├── artifacts/              # Compiled contract artifacts
 ├── Screenshot/             # Project screenshots
+├── LICENSE                 # MIT License
 ├── package.json
 ├── tailwind.config.js
 ├── postcss.config.js
